@@ -43,11 +43,11 @@ export const Hero = () => {
           .
         </p>
       </div>
-      <div className="flex-[2] relative w-20 h-80 max-md:m-auto ml-auto">
+      <div className="flex-[2] relative w-15 h-90 max-md:m-auto ml-auto">
         <Image
-          src="/img/vcvcvcc.jpg"
+          src="/img/pfp1rognéemaismieux.jpg"
           alt="Dorian Peltier"
-          className="rounded-full object-cover"
+          className="rounded-3xl object-cover"
           fill
         />
       </div>

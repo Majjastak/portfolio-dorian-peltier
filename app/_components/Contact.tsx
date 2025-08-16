@@ -11,21 +11,21 @@ export const Contact = () => {
       </h2>
       <div className="grid max-md:grid-cols-1 md:grid-cols-3 gap-4 w-full">
         <ContactCard
-          image="/img/vcvcvcc.jpg"
+          image="/img/pfp1rognéemaismieux.JPG"
           mediumImage="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png"
           name="My Email"
           description="Email me if you're interested."
           url="https://mail.google.com/mail/?view=cm&fs=1&to=dorian.peltier777@gmail.com"
         />
         <ContactCard
-          image="/img/vcvcvcc.jpg"
+          image="/img/pfp1rognéemaismieux.JPG"
           mediumImage="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055"
-          name="Dorian Peltier"
-          description="DM my Linkedin account."
+          name="My LinkedIn"
+          description="DM my LinkedIn account."
           url="https://www.linkedin.com/in/dorian-peltier-47684624b/"
         />
         <ContactCard
-          image="/img/vcvcvcc.jpg"
+          image="/img/pfp1rognéemaismieux.JPG"
           mediumImage="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiXN9xSEe8unzPBEQOeAKXd9Q55efGHGB9BA&s"
           name="My Facebook"
           description="DM my Facebook account."
