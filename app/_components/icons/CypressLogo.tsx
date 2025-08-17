@@ -22,8 +22,8 @@ export const CypressLogo = (
           y2="58.4063838%"
           id="cypressGradient-1"
         >
-          <stop stop-color="#315C55" offset="0%"></stop>
-          <stop stop-color="#09293F" offset="100%"></stop>
+          <stop stopColor="#315C55" offset="0%"></stop>
+          <stop stopColor="#09293F" offset="100%"></stop>
         </linearGradient>
         <linearGradient
           x1="54.2975471%"
@@ -32,8 +32,8 @@ export const CypressLogo = (
           y2="100%"
           id="cypressGradient-2"
         >
-          <stop stop-color="#4FB38D" offset="0%"></stop>
-          <stop stop-color="#315C55" offset="100%"></stop>
+          <stop stopColor="#4FB38D" offset="0%"></stop>
+          <stop stopColor="#315C55" offset="100%"></stop>
         </linearGradient>
         <linearGradient
           x1="13.9089831%"
@@ -42,8 +42,8 @@ export const CypressLogo = (
           y2="54.9595072%"
           id="cypressGradient-3"
         >
-          <stop stop-color="#4FB38D" offset="0%"></stop>
-          <stop stop-color="#97DEC0" offset="100%"></stop>
+          <stop stopColor="#4FB38D" offset="0%"></stop>
+          <stop stopColor="#97DEC0" offset="100%"></stop>
         </linearGradient>
         <linearGradient
           x1="53.8595989%"
@@ -52,9 +52,9 @@ export const CypressLogo = (
           y2="95.7936297%"
           id="cypressGradient-4"
         >
-          <stop stop-color="#97DEC0" offset="0%"></stop>
-          <stop stop-color="#FFFFF0" stop-opacity="0" offset="100%"></stop>
-          <stop stop-color="#FFFFF0" stop-opacity="0" offset="100%"></stop>
+          <stop stopColor="#97DEC0" offset="0%"></stop>
+          <stop stopColor="#FFFFF0" stopOpacity="0" offset="100%"></stop>
+          <stop stopColor="#FFFFF0" stopOpacity="0" offset="100%"></stop>
         </linearGradient>
       </defs>
       <g>
