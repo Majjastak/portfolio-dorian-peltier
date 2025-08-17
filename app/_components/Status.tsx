@@ -37,14 +37,14 @@ export const Status = () => {
         <Card className="p-4 flex-1 flex flex-col gap-2">
           <p className="text-muted-foreground text-lg">Contact me</p>
           <ContactCard
-            image="/img/pfp1rognéemaismieux.JPG"
+            image="/img/pfp.JPG"
             mediumImage="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png"
             name="Gmail address"
             description="dorian.peltier777@gmail.com"
             url="https://mail.google.com/mail/?view=cm&fs=1&to=dorian.peltier777@gmail.com"
           />
           <ContactCard
-            image="/img/pfp1rognéemaismieux.JPG"
+            image="/img/pfp.JPG"
             mediumImage="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png?20140125013055"
             name="Dorian Peltier"
             description="Newly graduated engineer open for work !"

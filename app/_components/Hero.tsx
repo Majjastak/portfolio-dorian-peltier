@@ -45,7 +45,7 @@ export const Hero = () => {
       </div>
       <div className="flex-[2] relative w-15 h-90 max-md:m-auto ml-auto">
         <img
-          src="/img/pfp1rognéemaismieux.jpg"
+          src="/img/pfp.JPG"
           alt="Dorian Peltier"
           className="rounded-3xl object-cover"
         />
