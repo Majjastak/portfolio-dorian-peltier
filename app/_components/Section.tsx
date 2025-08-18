@@ -5,7 +5,7 @@ export const Section = (props: PropsWithChildren<{ className?: string }>) => {
   return (
     <section
       className={cn(
-        `max-w-4xl px-4 m-auto ${props.className}`,
+        `max-w-4xl px-4 m-auto z-0 ${props.className}`,
         props.className
       )}
     >
