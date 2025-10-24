@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
 import { Section } from "./Section";
-import { Button } from "@/components/ui/button";
 import { GithubIcon } from "./icons/Githubicon";
 import { LinkedInIcon } from "./icons/LinkedInIcon";
 import { cn } from "@/lib/utils";

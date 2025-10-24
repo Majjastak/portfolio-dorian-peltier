@@ -1,6 +1,5 @@
 /* eslint-disable @next/next/no-img-element */
 import { Section } from "./Section";
-import Image from "next/image";
 import Link from "next/link";
 import { Code } from "./Code";
 

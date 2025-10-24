@@ -58,6 +58,14 @@ export const Status = () => {
 
 const SIDE_PROJECTS: SideProjectProps[] = [
   {
+    Logo: "https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png",
+    title: "Projet personnel en JAVA",
+    description:
+      "Client account management app with JAVA, Swing for the interface, and SQL/phpMyAdmin for the database.",
+    date: "October 2025",
+    url: "#",
+  },
+  {
     Logo: "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/m53aanqua9iz1q3pngsr",
     title: "Frontend developer",
     description:
