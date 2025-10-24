@@ -63,7 +63,7 @@ const SIDE_PROJECTS: SideProjectProps[] = [
     description:
       "Client account management app with JAVA, Swing for the interface, and SQL/phpMyAdmin for the database.",
     date: "October 2025",
-    url: "#",
+    url: "https://github.com/Majjastak/projet-gestion-clients-java",
   },
   {
     Logo: "https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/m53aanqua9iz1q3pngsr",
